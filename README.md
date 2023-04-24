@@ -2,9 +2,9 @@
 This is a Solidity smart contract for a token called "MyToken". 
 
 ## DESCIRPTION
-This program is acontract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.
-The code is a Solidity smart contract for a basic token called "MyToken". It also has two public variables for the token name and abbreviation, and a total supply variable. It also has a mapping variable called "balances" which maps addresses to their token balances.
-This contract has two functions called "mint" and "burn". The "mint" function  adds the given value to the balance of the specified address. The "burn" function  reduces the balance of the specified address by the given value, but only if the address has sufficient balance.
+This program is a contract written in Solidity, a language used for developing smart contracts on the Ethereum blockchain.
+The code is a Solidity smart contract for a basic token called "MyToken". It also has two public variables for the token name and abbreviation, and a total supply variable. It has a mapping variable called "balances" which maps addresses to their token balances.
+This contract has two functions called "mint" and "burn". The "mint" function  adds the given value to the balance of the specified address. The "burn" function  reduces the balance of the specified address by the given value,only if the address has sufficient balance.
 
 ## GETTING STARTED
 Using remixIDE to compile and run and deploy the program.
@@ -22,7 +22,7 @@ Using remixIDE to compile and run and deploy the program.
 * To check thr balance click on  balances then paste account address then click on call we will get the account balance
 * Then to burn some tokens we will click on burn and then paste account address then set the value to 70 (70 tokens will be burnt from our account)
 * To check balance again press on call we will get the latest balance. 100-70=30 (30 will be the latest balance).
-* This is all for the contract
+* This is all for this contract.
 
 
 ## CONTRACT 
