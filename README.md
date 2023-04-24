@@ -1,4 +1,4 @@
-# ## MY TOKEN.SOL
+## MY TOKEN.SOL
 This is a Solidity smart contract for a token called "MyToken". 
 
 ## DESCIRPTION
@@ -10,19 +10,19 @@ This contract has two functions called "mint" and "burn". The "mint" function  a
 Using remixIDE to compile and run and deploy the program.
 
 ## EXECUTING THE PROGRAM
-* CREATE A NEW FOLDER NAMED MYTOKEN.SOL
-* A NEW TAB WILL OPEN 
-* WRITE THE CONTRACT IN SOLIDITY 
-* IF THE REMIX IS ON AUTO COMPILE AND RUN,THE WRITTEN CODE WILL BE COMPILED AND RUN AUTOMATICALLY BUT IF IT IS NOT ON AUTO COMPILE THEN WE HAVE TO MANUALLY COMPILE AND   RUN THE CODE BY SELECTING THE OPTION AS COMPILE AND RUN IN THE LEFT MENU
-* AFTER COMPILING WE DEPLOY THE CONTRACT THEN WE GET THE ACCOUNT ADDRESS WHICH WE USE IN FURTHER STEPS
-* THEN IF THE CODE IS DEPLOYED SUCCESSFULLY WE CAN CHECK THE TOKEN NAME AND TOKEN ABBREVIATION WE HAVE GIVEN IN THE CODE 
-* BY CLICKING ON TOKENABBVR WE CAN CHECK THE TOKEN ABBREVIATION AND SIMILARLY WE CAN CHECK TOKEN SUPPLY AND TOKRN NAME TOOO.
-* INITIALLY WE WILL HAVE 0 BALANCE IN OUR ACCOUNT 
-* FOR MINTING WE CLICK ON MIN BUTTON THEN WE PASTE THE ACCOUNT ADDRESS (WE HAVE PROVIDED AFTER DEPLOYING THE CONTRACT) THEN WE PUT VALUE OFNHOW MUCH TOKEN WE HAVE TO     MINT SUPPOSE LETS TAKE 100 TOKENS THEN CLICK TRANSACT.(TOKENS WILL BE TRANSACTED IN THE ACCOUNT)
-* TO CHECK THR BALANCE CLICK ON  BALANCES THEN PASTE ACCOUNT ADDRESS THEN CLICK ON CALL WE WILL GET THE ACCOUNT BALANCE
-* THEN TO BURN SOME TOKENS WE WILL CLICK ON BURN AND THEN PASTE ACCOUNT ADDRESS THEN SET THE VALUE TO 70 (70 TOKENS WILL BE BURNT FROM OUR ACCOUNT)
-* TO CHECK BALANCE AGAIN PRESS ON CALL WE WILL GET THE LATEST BALANCE. 100-70=30 (30 WILL BE THE LATEST BALANCE).
-* THIS IS ALL FOR THE CONTRACT
+* Create a new folder named my token.Sol
+* A new tab will open 
+* Write the contract in solidity 
+* If the remix is on auto compile and run,the written code will be compiled and run automatically but if it is not on auto compile then we have to manually compile and   run the code by selecting the option as compile and run in the left menu
+* After compiling we deploy the contract.
+ Then if the code is deployed successfully we can check the token name and token abbreviation we have given in the code 
+* By clicking on tokenabbvr we can check the token abbreviation and similarly we can check token supply and tokrn name tooo.
+ (firstly we will have 0 balance in our account) 
+* For minting we click on min button then we paste the account address (we have provided after deploying the contract) then we put value ofnhow much token we have to     mint suppose lets take 100 tokens then click transact.(tokens will be transacted in the account)
+* To check thr balance click on  balances then paste account address then click on call we will get the account balance
+* Then to burn some tokens we will click on burn and then paste account address then set the value to 70 (70 tokens will be burnt from our account)
+* To check balance again press on call we will get the latest balance. 100-70=30 (30 will be the latest balance).
+* This is all for the contract
 
 
 ## CONTRACT 
